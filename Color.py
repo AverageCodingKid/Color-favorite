@@ -10,6 +10,8 @@ def color():
         print("I like that color too, it is the color of many old TV shows and movies!")
     elif favorite.lower() == "black":
         print("I like that color too, it is the color of void")
+    elif favorite.lower() == "pink":
+        print("I like that color too, it is the color of cherry blossoms!")
     else:
         print("Sorry, I am not familiar with this color. Tip: You can edit my code and follow the same pattern of the rest of the code.")
 
